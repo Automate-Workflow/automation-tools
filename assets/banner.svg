@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="Automate-Workflow / automation-tools">
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1A0A0A"/>
+      <stop offset="75%" stop-color="#1A0A0A"/>
+      <stop offset="100%" stop-color="#2D0C0C"/>
+    </linearGradient>
+    <linearGradient id="accent-line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#DC2626"/>
+      <stop offset="70%" stop-color="#B91C1C"/>
+      <stop offset="100%" stop-color="#F59E0B"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="2" y="2" width="1196" height="256" rx="16" fill="url(#bg-grad)" stroke="#B91C1C" stroke-width="2"/>
+
+  <!-- Subtle background workflow traces on right side -->
+  <g fill="none" stroke="#B91C1C" stroke-opacity="0.28" stroke-width="2" stroke-linecap="round">
+    <path d="M 920 50 H 1040 L 1070 80 H 1150"/>
+    <path d="M 960 130 H 1080 L 1110 100 H 1160"/>
+    <path d="M 940 205 H 1030 L 1065 170 H 1145"/>
+    <path d="M 1040 50 L 1080 130"/>
+  </g>
+  <g fill="#DC2626" fill-opacity="0.35">
+    <circle cx="920" cy="50" r="4"/>
+    <circle cx="960" cy="130" r="4"/>
+    <circle cx="940" cy="205" r="4"/>
+    <circle cx="1150" cy="80" r="4"/>
+    <circle cx="1145" cy="170" r="4"/>
+  </g>
+  <circle cx="1160" cy="100" r="5" fill="#F59E0B" fill-opacity="0.55"/>
+
+  <!-- Left geometric flow mark -->
+  <rect x="48" y="62" width="136" height="136" rx="24" fill="#1A0A0A" stroke="#B91C1C" stroke-width="2.5"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 78 130 C 94 130, 96 96, 114 96" stroke="#DC2626" stroke-width="4"/>
+    <path d="M 78 130 C 94 130, 96 164, 114 164" stroke="#DC2626" stroke-width="4"/>
+    <path d="M 118 96 C 136 96, 138 130, 154 130" stroke="#FEF2F2" stroke-width="3.5" stroke-opacity="0.9"/>
+    <path d="M 118 164 C 136 164, 138 130, 154 130" stroke="#FEF2F2" stroke-width="3.5" stroke-opacity="0.9"/>
+  </g>
+  <circle cx="76" cy="130" r="10" fill="#1A0A0A" stroke="#FEF2F2" stroke-width="3.5"/>
+  <circle cx="116" cy="96" r="9" fill="#DC2626" stroke="#FEF2F2" stroke-width="2.5"/>
+  <circle cx="116" cy="164" r="9" fill="#DC2626" stroke="#FEF2F2" stroke-width="2.5"/>
+  <circle cx="156" cy="130" r="10" fill="#F59E0B" stroke="#FEF2F2" stroke-width="2.5"/>
+
+  <!-- Title and tagline -->
+  <text x="224" y="80" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2.5" fill="#F59E0B">CURATED OPEN DIRECTORY</text>
+  <text x="224" y="128" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="36" font-weight="700" fill="#FEF2F2">Automate-Workflow <tspan fill="#DC2626">/</tspan> automation-tools</text>
+  <line x1="224" y1="148" x2="480" y2="148" stroke="url(#accent-line)" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="492" cy="148" r="4" fill="#F59E0B"/>
+  <text x="224" y="184" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="17" font-weight="400" fill="#FEF2F2" fill-opacity="0.88">A curated directory of workflow, CI/CD, infrastructure, data and AI automation tools.</text>
+</svg>
