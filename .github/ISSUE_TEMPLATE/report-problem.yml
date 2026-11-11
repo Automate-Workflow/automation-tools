@@ -1,0 +1,38 @@
+name: Report a problem
+description: Report a broken link, outdated status, or incorrect tool information
+title: "Fix info: "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form for broken links, moved repositories, license changes, or factual errors in data/tools.csv or generated docs. For malicious links, hijacked URLs, or leaked secrets, follow SECURITY.md instead of opening a public issue.
+  - type: dropdown
+    id: problem_type
+    attributes:
+      label: Problem type
+      options:
+        - Broken or moved repository URL
+        - Incorrect license or licensing note
+        - Archived or unmaintained repository
+        - Factual error in description or metadata
+        - Generator or documentation bug
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: affected_item
+    attributes:
+      label: Tool or file affected
+      description: Name of the tool from data/tools.csv or repository file path.
+      placeholder: Example: Flowise or scripts/generate.py
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details and proposed correction
+      description: Describe what is wrong, what it should be, and link to an upstream source if applicable.
+    validations:
+      required: true

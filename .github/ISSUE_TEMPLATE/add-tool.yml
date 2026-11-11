@@ -1,0 +1,72 @@
+name: Add a tool
+description: Suggest an automation tool for inclusion in data/tools.csv
+title: "Add tool: "
+labels:
+  - addition
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please verify that the repository is public, uses its canonical URL, and is actively maintained or historically significant. See CONTRIBUTING.md for full criteria.
+  - type: input
+    id: tool_name
+    attributes:
+      label: Tool name
+      description: Official name of the tool.
+      placeholder: Example: Activepieces
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Select the closest matching category from data/tools.csv.
+      options:
+        - Workflow Automation (No/Low-code)
+        - Workflow Orchestration (Code-first)
+        - Data Orchestration & Pipelines
+        - CI/CD & Build Automation
+        - GitOps & Deployment
+        - Infrastructure as Code & Config Mgmt
+        - RPA & Desktop/UI Automation
+        - Browser, Scraping & Test Automation
+        - AI Agents & AI Workflows
+        - Low-code & Business Automation
+        - Task Queues & Scheduling
+        - Developer Workflow Automation
+        - Home & IoT Automation
+        - New category proposal (explain below)
+    validations:
+      required: true
+  - type: input
+    id: repo_url
+    attributes:
+      label: Repository URL
+      description: Canonical public repository URL.
+      placeholder: https://github.com/owner/repo
+    validations:
+      required: true
+  - type: input
+    id: license
+    attributes:
+      label: License
+      description: Exact license stated in the repository (note any source-available or dual-license terms).
+      placeholder: Example: Apache-2.0
+    validations:
+      required: true
+  - type: input
+    id: language
+    attributes:
+      label: Primary language
+      description: Main implementation language(s).
+      placeholder: Example: TypeScript
+    validations:
+      required: true
+  - type: textarea
+    id: why_it_belongs
+    attributes:
+      label: Why it belongs
+      description: Concise factual summary of what the tool automates, its maintenance status (or historical significance), and any important notes.
+      placeholder: Summarize primary use case and maintenance status without marketing claims.
+    validations:
+      required: true

@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security Vulnerability Reporting
+    url: https://github.com/Automate-Workflow/automation-tools/blob/master/SECURITY.md
+    about: Report malicious links, hijacked repository URLs, leaked secrets, or security issues privately (see SECURITY.md).
