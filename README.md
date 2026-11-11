@@ -4,10 +4,10 @@
 
 <img src="assets/logo.png" width="96" height="96" align="right" alt="Automate-Workflow logo" />
 
-A curated, single-source directory of 99 automation tools across 13 categories, covering workflow builders, code-first orchestration, data pipelines, CI/CD, GitOps, infrastructure as code, RPA, browser automation, AI agents, and developer tooling. All entries are generated from [data/tools.csv](data/tools.csv).
+A curated, single-source directory of 100 automation tools across 13 categories, covering workflow builders, code-first orchestration, data pipelines, CI/CD, GitOps, infrastructure as code, RPA, browser automation, AI agents, and developer tooling. All entries are generated from [data/tools.csv](data/tools.csv).
 
 <p align="left">
-  <a href="TOOLS.md"><img src="https://img.shields.io/badge/tools-99-6B0421?style=flat-square" alt="Tools: 99" /></a>
+  <a href="TOOLS.md"><img src="https://img.shields.io/badge/tools-100-6B0421?style=flat-square" alt="Tools: 100" /></a>
   <a href="TOOLS.md#table-of-contents"><img src="https://img.shields.io/badge/categories-13-90012A?style=flat-square" alt="Categories: 13" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-6B0421?style=flat-square" alt="License: MIT" /></a>
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-90012A?style=flat-square" alt="PRs welcome" /></a>
@@ -31,7 +31,7 @@ Browse the full directory in [TOOLS.md](TOOLS.md) or jump directly to a category
 | <img src="assets/icons/gitops-deployment.svg" width="24" height="24" alt="GitOps & Deployment" /> | GitOps & Deployment | 4 | [View tools](TOOLS.md#gitops--deployment) |
 | <img src="assets/icons/infrastructure-as-code-config-mgmt.svg" width="24" height="24" alt="Infrastructure as Code & Config Mgmt" /> | Infrastructure as Code & Config Mgmt | 10 | [View tools](TOOLS.md#infrastructure-as-code--config-mgmt) |
 | <img src="assets/icons/rpa-desktop-ui-automation.svg" width="24" height="24" alt="RPA & Desktop/UI Automation" /> | RPA & Desktop/UI Automation | 7 | [View tools](TOOLS.md#rpa--desktopui-automation) |
-| <img src="assets/icons/browser-scraping-test-automation.svg" width="24" height="24" alt="Browser, Scraping & Test Automation" /> | Browser, Scraping & Test Automation | 8 | [View tools](TOOLS.md#browser-scraping--test-automation) |
+| <img src="assets/icons/browser-scraping-test-automation.svg" width="24" height="24" alt="Browser, Scraping & Test Automation" /> | Browser, Scraping & Test Automation | 9 | [View tools](TOOLS.md#browser-scraping--test-automation) |
 | <img src="assets/icons/ai-agents-ai-workflows.svg" width="24" height="24" alt="AI Agents & AI Workflows" /> | AI Agents & AI Workflows | 7 | [View tools](TOOLS.md#ai-agents--ai-workflows) |
 | <img src="assets/icons/low-code-business-automation.svg" width="24" height="24" alt="Low-code & Business Automation" /> | Low-code & Business Automation | 3 | [View tools](TOOLS.md#low-code--business-automation) |
 | <img src="assets/icons/task-queues-scheduling.svg" width="24" height="24" alt="Task Queues & Scheduling" /> | Task Queues & Scheduling | 1 | [View tools](TOOLS.md#task-queues--scheduling) |

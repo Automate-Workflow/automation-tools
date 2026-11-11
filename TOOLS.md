@@ -2,7 +2,7 @@
 
 # Automation Tools Directory
 
-A curated directory of 99 automation tools across 13 categories, generated from [data/tools.csv](data/tools.csv).
+A curated directory of 100 automation tools across 13 categories, generated from [data/tools.csv](data/tools.csv).
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@ A curated directory of 99 automation tools across 13 categories, generated from 
 | <img src="assets/icons/gitops-deployment.svg" width="20" height="20" alt="GitOps & Deployment" /> | [GitOps & Deployment](#gitops--deployment) | 4 |
 | <img src="assets/icons/infrastructure-as-code-config-mgmt.svg" width="20" height="20" alt="Infrastructure as Code & Config Mgmt" /> | [Infrastructure as Code & Config Mgmt](#infrastructure-as-code--config-mgmt) | 10 |
 | <img src="assets/icons/rpa-desktop-ui-automation.svg" width="20" height="20" alt="RPA & Desktop/UI Automation" /> | [RPA & Desktop/UI Automation](#rpa--desktopui-automation) | 7 |
-| <img src="assets/icons/browser-scraping-test-automation.svg" width="20" height="20" alt="Browser, Scraping & Test Automation" /> | [Browser, Scraping & Test Automation](#browser-scraping--test-automation) | 8 |
+| <img src="assets/icons/browser-scraping-test-automation.svg" width="20" height="20" alt="Browser, Scraping & Test Automation" /> | [Browser, Scraping & Test Automation](#browser-scraping--test-automation) | 9 |
 | <img src="assets/icons/ai-agents-ai-workflows.svg" width="20" height="20" alt="AI Agents & AI Workflows" /> | [AI Agents & AI Workflows](#ai-agents--ai-workflows) | 7 |
 | <img src="assets/icons/low-code-business-automation.svg" width="20" height="20" alt="Low-code & Business Automation" /> | [Low-code & Business Automation](#low-code--business-automation) | 3 |
 | <img src="assets/icons/task-queues-scheduling.svg" width="20" height="20" alt="Task Queues & Scheduling" /> | [Task Queues & Scheduling](#task-queues--scheduling) | 1 |
@@ -177,6 +177,7 @@ Frameworks and drivers for controlling web and mobile browsers, scraping web dat
 | [Scrapy](https://github.com/scrapy/scrapy) | Web crawling and scraping framework | BSD-3-Clause | Python | |
 | [Browser Use](https://github.com/browser-use/browser-use) | Let AI agents control a browser | MIT | Python | |
 | [Stagehand](https://github.com/browserbase/stagehand) | AI-powered browser automation SDK | MIT | TypeScript | |
+| [agent-qa](https://github.com/vostride/agent-qa) | Web and native mobile QA via CLI/MCP | FSL-1.1-ALv2 (competing-use restrictions) | TypeScript | Persistent memidex memory, validated self-improvement and step/screenshot evidence; free permitted local software, model/infrastructure costs separate. https://vostride.com |
 
 ---
 

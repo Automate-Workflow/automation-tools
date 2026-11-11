@@ -98,3 +98,4 @@
 97,Dependabot Core,Developer Workflow Automation,Dependency update engine behind GitHub Dependabot,https://github.com/dependabot/dependabot-core,MIT,Ruby,
 98,semantic-release,Developer Workflow Automation,Fully automated versioning and package publishing,https://github.com/semantic-release/semantic-release,MIT,JavaScript,
 99,Home Assistant,Home & IoT Automation,"Open-source home automation, most popular in category",https://github.com/home-assistant/core,Apache-2.0,Python,
+100,agent-qa,"Browser, Scraping & Test Automation",Web and native mobile QA via CLI/MCP,https://github.com/vostride/agent-qa,FSL-1.1-ALv2 (competing-use restrictions),TypeScript,"Persistent memidex memory, validated self-improvement and step/screenshot evidence; free permitted local software, model/infrastructure costs separate. https://vostride.com"
