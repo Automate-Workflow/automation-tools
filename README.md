@@ -2,6 +2,8 @@
   <img src="assets/banner.svg" alt="Automate-Workflow / automation-tools" width="100%" />
 </p>
 
+<img src="assets/logo.png" width="96" height="96" align="right" alt="Automate-Workflow logo" />
+
 A curated, single-source directory of 99 automation tools across 13 categories, covering workflow builders, code-first orchestration, data pipelines, CI/CD, GitOps, infrastructure as code, RPA, browser automation, AI agents, and developer tooling. All entries are generated from [data/tools.csv](data/tools.csv).
 
 <p align="left">
@@ -10,6 +12,8 @@ A curated, single-source directory of 99 automation tools across 13 categories, 
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-B91C1C?style=flat-square" alt="License: MIT" /></a>
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-DC2626?style=flat-square" alt="PRs welcome" /></a>
 </p>
+
+<br clear="right" />
 
 <img src="assets/divider.svg" alt="" width="100%" />
 

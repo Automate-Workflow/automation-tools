@@ -30,18 +30,23 @@
   </g>
   <circle cx="1160" cy="100" r="5" fill="#F59E0B" fill-opacity="0.55"/>
 
-  <!-- Left geometric flow mark -->
+  <!-- Left emblem matching official Automate-Workflow </> + circuit motif -->
   <rect x="48" y="62" width="136" height="136" rx="24" fill="#1A0A0A" stroke="#B91C1C" stroke-width="2.5"/>
-  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M 78 130 C 94 130, 96 96, 114 96" stroke="#DC2626" stroke-width="4"/>
-    <path d="M 78 130 C 94 130, 96 164, 114 164" stroke="#DC2626" stroke-width="4"/>
-    <path d="M 118 96 C 136 96, 138 130, 154 130" stroke="#FEF2F2" stroke-width="3.5" stroke-opacity="0.9"/>
-    <path d="M 118 164 C 136 164, 138 130, 154 130" stroke="#FEF2F2" stroke-width="3.5" stroke-opacity="0.9"/>
+  <g fill="none" stroke="#FEF2F2" stroke-width="6.5" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="92,104 72,123 92,142"/>
+    <line x1="123" y1="95" x2="108" y2="151"/>
+    <polyline points="138,104 158,123 138,142"/>
   </g>
-  <circle cx="76" cy="130" r="10" fill="#1A0A0A" stroke="#FEF2F2" stroke-width="3.5"/>
-  <circle cx="116" cy="96" r="9" fill="#DC2626" stroke="#FEF2F2" stroke-width="2.5"/>
-  <circle cx="116" cy="164" r="9" fill="#DC2626" stroke="#FEF2F2" stroke-width="2.5"/>
-  <circle cx="156" cy="130" r="10" fill="#F59E0B" stroke="#FEF2F2" stroke-width="2.5"/>
+  <line x1="72" y1="168" x2="122" y2="168" stroke="#DC2626" stroke-width="3.5" stroke-linecap="round"/>
+  <circle cx="122" cy="168" r="3.5" fill="#F59E0B"/>
+  <g transform="translate(154, 166)">
+    <circle cx="0" cy="0" r="11" fill="#1A0A0A" stroke="#F59E0B" stroke-width="2.5"/>
+    <circle cx="0" cy="0" r="14.5" fill="none" stroke="#DC2626" stroke-width="3" stroke-dasharray="4 3.6"/>
+    <path d="M 0 6 V -5 M 0 2 L -4 -2 M 0 0 L 4 -3" fill="none" stroke="#FEF2F2" stroke-width="1.8" stroke-linecap="round"/>
+    <circle cx="0" cy="-6" r="1.4" fill="#F59E0B"/>
+    <circle cx="-4.5" cy="-2.5" r="1.4" fill="#F59E0B"/>
+    <circle cx="4.5" cy="-3.5" r="1.4" fill="#F59E0B"/>
+  </g>
 
   <!-- Title and tagline -->
   <text x="224" y="80" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2.5" fill="#F59E0B">CURATED OPEN DIRECTORY</text>
