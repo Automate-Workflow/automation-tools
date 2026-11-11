@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Workflow Automation (No/Low-code)">
-  <rect x="8" y="24" width="16" height="16" rx="4" stroke="#DC2626" stroke-width="3.2"/>
-  <circle cx="16" cy="32" r="2.8" fill="#F59E0B"/>
-  <rect x="40" y="10" width="16" height="14" rx="4" stroke="#DC2626" stroke-width="3.2"/>
-  <rect x="40" y="40" width="16" height="14" rx="4" stroke="#DC2626" stroke-width="3.2"/>
-  <path d="M 24 32 C 32 32, 32 17, 40 17" stroke="#DC2626" stroke-width="3.2"/>
-  <path d="M 24 32 C 32 32, 32 47, 40 47" stroke="#DC2626" stroke-width="3.2"/>
+  <rect x="8" y="24" width="16" height="16" rx="4" stroke="#D11D4E" stroke-width="3.2"/>
+  <circle cx="16" cy="32" r="2.8" fill="#A58E93"/>
+  <rect x="40" y="10" width="16" height="14" rx="4" stroke="#D11D4E" stroke-width="3.2"/>
+  <rect x="40" y="40" width="16" height="14" rx="4" stroke="#D11D4E" stroke-width="3.2"/>
+  <path d="M 24 32 C 32 32, 32 17, 40 17" stroke="#D11D4E" stroke-width="3.2"/>
+  <path d="M 24 32 C 32 32, 32 47, 40 47" stroke="#D11D4E" stroke-width="3.2"/>
 </svg>

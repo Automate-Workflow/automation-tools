@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="RPA &amp; Desktop/UI Automation">
-  <rect x="8" y="10" width="48" height="34" rx="4" stroke="#DC2626" stroke-width="3.2"/>
-  <line x1="26" y1="44" x2="26" y2="53" stroke="#DC2626" stroke-width="3.2"/>
-  <line x1="38" y1="44" x2="38" y2="53" stroke="#DC2626" stroke-width="3.2"/>
-  <line x1="19" y1="53" x2="45" y2="53" stroke="#DC2626" stroke-width="3.2"/>
-  <circle cx="24" cy="23" r="5" stroke="#F59E0B" stroke-width="2.8"/>
-  <polygon points="27,25 43,31 36,34 33,40" stroke="#DC2626" stroke-width="3"/>
+  <rect x="8" y="10" width="48" height="34" rx="4" stroke="#D11D4E" stroke-width="3.2"/>
+  <line x1="26" y1="44" x2="26" y2="53" stroke="#D11D4E" stroke-width="3.2"/>
+  <line x1="38" y1="44" x2="38" y2="53" stroke="#D11D4E" stroke-width="3.2"/>
+  <line x1="19" y1="53" x2="45" y2="53" stroke="#D11D4E" stroke-width="3.2"/>
+  <circle cx="24" cy="23" r="5" stroke="#A58E93" stroke-width="2.8"/>
+  <polygon points="27,25 43,31 36,34 33,40" stroke="#D11D4E" stroke-width="3"/>
 </svg>

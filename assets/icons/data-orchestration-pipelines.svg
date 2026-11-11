@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Data Orchestration &amp; Pipelines">
-  <ellipse cx="17" cy="20" rx="8" ry="4" stroke="#DC2626" stroke-width="3.2"/>
-  <path d="M 9 20 V 44 C 9 46.2 12.6 48 17 48 C 21.4 48 25 46.2 25 44 V 20" stroke="#DC2626" stroke-width="3.2"/>
-  <path d="M 9 32 C 9 34.2 12.6 36 17 36 C 21.4 36 25 34.2 25 32" stroke="#DC2626" stroke-width="2.8"/>
-  <line x1="25" y1="32" x2="34" y2="32" stroke="#DC2626" stroke-width="3.2"/>
-  <circle cx="37" cy="32" r="4" stroke="#F59E0B" stroke-width="3.2"/>
-  <line x1="41" y1="32" x2="51" y2="32" stroke="#DC2626" stroke-width="3.2"/>
-  <polyline points="48,26 55,32 48,38" stroke="#DC2626" stroke-width="3.2"/>
+  <ellipse cx="17" cy="20" rx="8" ry="4" stroke="#D11D4E" stroke-width="3.2"/>
+  <path d="M 9 20 V 44 C 9 46.2 12.6 48 17 48 C 21.4 48 25 46.2 25 44 V 20" stroke="#D11D4E" stroke-width="3.2"/>
+  <path d="M 9 32 C 9 34.2 12.6 36 17 36 C 21.4 36 25 34.2 25 32" stroke="#D11D4E" stroke-width="2.8"/>
+  <line x1="25" y1="32" x2="34" y2="32" stroke="#D11D4E" stroke-width="3.2"/>
+  <circle cx="37" cy="32" r="4" stroke="#A58E93" stroke-width="3.2"/>
+  <line x1="41" y1="32" x2="51" y2="32" stroke="#D11D4E" stroke-width="3.2"/>
+  <polyline points="48,26 55,32 48,38" stroke="#D11D4E" stroke-width="3.2"/>
 </svg>

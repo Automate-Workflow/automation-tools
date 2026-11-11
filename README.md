@@ -7,10 +7,10 @@
 A curated, single-source directory of 99 automation tools across 13 categories, covering workflow builders, code-first orchestration, data pipelines, CI/CD, GitOps, infrastructure as code, RPA, browser automation, AI agents, and developer tooling. All entries are generated from [data/tools.csv](data/tools.csv).
 
 <p align="left">
-  <a href="TOOLS.md"><img src="https://img.shields.io/badge/tools-99-B91C1C?style=flat-square" alt="Tools: 99" /></a>
-  <a href="TOOLS.md#table-of-contents"><img src="https://img.shields.io/badge/categories-13-DC2626?style=flat-square" alt="Categories: 13" /></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-B91C1C?style=flat-square" alt="License: MIT" /></a>
-  <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-DC2626?style=flat-square" alt="PRs welcome" /></a>
+  <a href="TOOLS.md"><img src="https://img.shields.io/badge/tools-99-6B0421?style=flat-square" alt="Tools: 99" /></a>
+  <a href="TOOLS.md#table-of-contents"><img src="https://img.shields.io/badge/categories-13-90012A?style=flat-square" alt="Categories: 13" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-6B0421?style=flat-square" alt="License: MIT" /></a>
+  <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-90012A?style=flat-square" alt="PRs welcome" /></a>
 </p>
 
 <br clear="right" />

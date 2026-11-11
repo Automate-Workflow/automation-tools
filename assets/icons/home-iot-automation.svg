@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Home &amp; IoT Automation">
-  <polyline points="9,30 32,12 55,30" stroke="#DC2626" stroke-width="3.2"/>
-  <polyline points="16,25 16,52 48,52 48,25" stroke="#DC2626" stroke-width="3.2"/>
-  <path d="M 23 36 A 12 12 0 0 1 41 36" stroke="#DC2626" stroke-width="3"/>
-  <path d="M 27 41 A 7 7 0 0 1 37 41" stroke="#F59E0B" stroke-width="3"/>
-  <circle cx="32" cy="46" r="2.8" fill="#F59E0B"/>
+  <polyline points="9,30 32,12 55,30" stroke="#D11D4E" stroke-width="3.2"/>
+  <polyline points="16,25 16,52 48,52 48,25" stroke="#D11D4E" stroke-width="3.2"/>
+  <path d="M 23 36 A 12 12 0 0 1 41 36" stroke="#D11D4E" stroke-width="3"/>
+  <path d="M 27 41 A 7 7 0 0 1 37 41" stroke="#A58E93" stroke-width="3"/>
+  <circle cx="32" cy="46" r="2.8" fill="#A58E93"/>
 </svg>
